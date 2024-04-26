@@ -1,5 +1,3 @@
-def generate_readme():
-    readme_content = """
 # SMS Spam Detection
 
 This project is focused on building a machine learning model for detecting spam messages in SMS communications. The model is trained to differentiate between legitimate messages and spam messages, providing a way to filter out unwanted content.
