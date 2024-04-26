@@ -22,6 +22,16 @@ The project uses a labeled dataset of SMS messages, where each message is catego
    - Assessing the model's performance using metrics such as accuracy, precision, recall, and F1-score.
    - Fine-tuning the model parameters to optimize performance.
 
+## Usage
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/yourusername/sms-spam-detection.git
+
+   def generate_readme():
+    readme_content = """
+
 ## Results
 
 The project achieves 95% accuracy, 0.98 precision, 0.96 recall, and 0.97 F1-score on the test dataset, demonstrating its effectiveness in detecting spam messages.
@@ -39,3 +49,4 @@ This project is licensed under the MIT License.
 
 # Call the function to generate the README.md file
 generate_readme()
+
