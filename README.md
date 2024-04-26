@@ -10,17 +10,17 @@ The project uses a labeled dataset of SMS messages, where each message is catego
 
 ## Approach
 
-1. **Data Preprocessing:**
-   - Cleaning the text data by removing punctuation, stopwords, and other irrelevant characters.
-   - Transforming the text data into numerical features using techniques like TF-IDF (Term Frequency-Inverse Document Frequency).
+### Data Preprocessing:
+- Cleaning the text data by removing punctuation, stopwords, and other irrelevant characters.
+- Transforming the text data into numerical features using techniques like TF-IDF (Term Frequency-Inverse Document Frequency).
 
-2. **Model Training:**
-   - Utilizing machine learning algorithms such as Naive Bayes, Support Vector Machines (SVM), or deep learning models like recurrent neural networks (RNNs).
-   - Splitting the dataset into training and testing sets for model evaluation.
+### Model Training:
+- Utilizing machine learning algorithms such as Naive Bayes, Support Vector Machines (SVM), or deep learning models like recurrent neural networks (RNNs).
+- Splitting the dataset into training and testing sets for model evaluation.
 
-3. **Model Evaluation:**
-   - Assessing the model's performance using metrics such as accuracy, precision, recall, and F1-score.
-   - Fine-tuning the model parameters to optimize performance.
+### Model Evaluation:
+- Assessing the model's performance using metrics such as accuracy, precision, recall, and F1-score.
+- Fine-tuning the model parameters to optimize performance.
 
 ## Usage
 
@@ -28,25 +28,3 @@ The project uses a labeled dataset of SMS messages, where each message is catego
 
    ```bash
    git clone https://github.com/yourusername/sms-spam-detection.git
-
-   def generate_readme():
-    readme_content = """
-
-## Results
-
-The project achieves 95% accuracy, 0.98 precision, 0.96 recall, and 0.97 F1-score on the test dataset, demonstrating its effectiveness in detecting spam messages.
-
-## Contributing
-
-Contributions to improve the model's performance or add new features are welcome. Please fork the repository, make your changes, and submit a pull request outlining the proposed modifications.
-
-## License
-
-This project is licensed under the MIT License.
-"""
-    with open("README.md", "w") as readme_file:
-        readme_file.write(readme_content)
-
-# Call the function to generate the README.md file
-generate_readme()
-
