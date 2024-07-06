@@ -8,7 +8,6 @@ from nltk.stem.porter import PorterStemmer
 
 
 # Download the required tokenizer data
-
 nltk.download('punkt')
 
 def transform_text(text):
