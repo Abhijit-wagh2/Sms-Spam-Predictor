@@ -5,6 +5,23 @@ from nltk.corpus import stopwords
 import nltk
 from nltk.stem.porter import PorterStemmer
 
+
+
+# Download the required tokenizer data
+
+nltk.download('punkt')
+
+def transform_text(text):
+    # Your text transformation logic here
+    text = nltk.word_tokenize(text)
+    # Rest of your function
+    return text
+
+
+
+
+
+
 ps = PorterStemmer()
 
 
