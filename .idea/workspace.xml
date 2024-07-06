@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a3211c-7421-4f23-bf8a-1dbc7ab3d359" name="Changes" comment="sk change">
+    <list default="true" id="52a3211c-7421-4f23-bf8a-1dbc7ab3d359" name="Changes" comment="c1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
@@ -97,7 +97,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720284399734</updated>
-      <workItem from="1720284406066" duration="2038000" />
+      <workItem from="1720284406066" duration="2940000" />
+      <workItem from="1720331983373" duration="781000" />
     </task>
     <task id="LOCAL-00001" summary="SMS">
       <option name="closed" value="true" />
@@ -187,7 +188,47 @@
       <option name="project" value="LOCAL" />
       <updated>1720286773622</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="sk change">
+      <option name="closed" value="true" />
+      <created>1720286860501</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1720286860501</updated>
+    </task>
+    <task id="LOCAL-00013" summary="newd">
+      <option name="closed" value="true" />
+      <created>1720287029357</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1720287029357</updated>
+    </task>
+    <task id="LOCAL-00014" summary="newd">
+      <option name="closed" value="true" />
+      <created>1720287042509</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1720287042509</updated>
+    </task>
+    <task id="LOCAL-00015" summary="c1">
+      <option name="closed" value="true" />
+      <created>1720287351396</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1720287351396</updated>
+    </task>
+    <task id="LOCAL-00016" summary="c1">
+      <option name="closed" value="true" />
+      <created>1720287358955</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1720287358955</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +238,8 @@
     <MESSAGE value="SMS" />
     <MESSAGE value="Resolved merge conflicts" />
     <MESSAGE value="sk change" />
-    <option name="LAST_COMMIT_MESSAGE" value="sk change" />
+    <MESSAGE value="newd" />
+    <MESSAGE value="c1" />
+    <option name="LAST_COMMIT_MESSAGE" value="c1" />
   </component>
 </project>
