@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a3211c-7421-4f23-bf8a-1dbc7ab3d359" name="Changes" comment="c3" />
+    <list default="true" id="52a3211c-7421-4f23-bf8a-1dbc7ab3d359" name="Changes" comment="c5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,6 +100,7 @@
       <workItem from="1720284406066" duration="2940000" />
       <workItem from="1720331983373" duration="781000" />
       <workItem from="1720334961639" duration="740000" />
+      <workItem from="1720342200287" duration="424000" />
     </task>
     <task id="LOCAL-00001" summary="SMS">
       <option name="closed" value="true" />
@@ -266,7 +270,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720335575589</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="c4">
+      <option name="closed" value="true" />
+      <created>1720342296913</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1720342296913</updated>
+    </task>
+    <task id="LOCAL-00023" summary="c5">
+      <option name="closed" value="true" />
+      <created>1720342440838</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1720342440838</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,6 +300,8 @@
     <MESSAGE value="c2" />
     <MESSAGE value="c1" />
     <MESSAGE value="c3" />
-    <option name="LAST_COMMIT_MESSAGE" value="c3" />
+    <MESSAGE value="c4" />
+    <MESSAGE value="c5" />
+    <option name="LAST_COMMIT_MESSAGE" value="c5" />
   </component>
 </project>
