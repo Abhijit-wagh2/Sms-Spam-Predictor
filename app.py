@@ -52,6 +52,7 @@ if st.button('Predict'):
             else:
                 st.header("Not Spam")
         except NotFittedError:
+            st.header("Not Spam")
             st.error("TF-IDF Vectorizer is not fitted. Please check the vectorizer and try again.")
     else:
         st.error("Model or Vectorizer not loaded properly.")
