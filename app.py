@@ -20,9 +20,9 @@ def transform_text(text):
     text = y[:]
     y.clear()
 
-    for i in text:
-        if i not in stopwords.words('english') and i not in string.punctuation:
-            y.append(i)
+    # for i in text:
+    #     if i not in stopwords.words('english') and i not in string.punctuation:
+    #         y.append(i)
 
     text = y[:]
     y.clear()
