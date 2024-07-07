@@ -4,6 +4,7 @@ import string
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 from sklearn.exceptions import NotFittedError
+from scipy.sparse import csr_matrix
 
 ps = PorterStemmer()
 
